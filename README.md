@@ -4,7 +4,7 @@ The F4K Detection and Tracking dataset includes 17 videos (10 minutes long each)
 
 ### Download dataset
 
-Link to dataset files: https://tinyurl.com/f4k-detection-and-tracking
+Link to dataset files: https://bit.ly/f4k-detection-tracking
 
 ### Citation
 
